@@ -1,0 +1,68 @@
+{
+  "IndexPage": {
+    "welcomeTitle": "Temukan Barang Kiriman Kamu dengan Cepat dan Akurat",
+    "welcomeDescription": "Kami menyediakan layanan cek resi dan ongkir yang cepat, mudah, dan terpercaya. Pantau status pengiriman paket Anda dan hitung estimasi biaya pengiriman dengan mudah di sini.",
+    "checkNow": "Cek Resi Sekarang"
+  },
+  "Navbar": {
+    "home": "Beranda",
+    "resi": "Layanan Cek Resi",
+    "ongkir": "Layanan Cek Ongkir"
+  },
+  "Footer": {
+    "bahasa": "Bahasa",
+    "option": "Pilih Bahasa",
+    "fitur_cepat": "FITUR CEPAT",
+    "cek_resi": "Cek Resi",
+    "cek_ongkir": "Cek Ongkos Kirim",
+    "layanan": "Layanan",
+    "layanan_utama": "Layanan Utama",
+    "pengadaan_barang": "Pengadaan Barang",
+    "hubungi_kami": "Hubungi Kami",
+    "ikuti_kami": "Ikuti Kami",
+    "copyright": "© 2024 Yiie - Dibuat dengan"
+  },
+  "ongkir": {
+    "title": "Cek Ongkir Kamu !!",
+    "kota_asal": "Kota Asal",
+    "kota_tujuan": "Kota Tujuan",
+    "provinsi": "Pilih Provinsi",
+    "placeholder_provinsi_origin": "Masukan nama provinsi anda",
+    "placeholder_kota_origin": "Pilih kota/kabupaten anda",
+    "placeholder_provinsi_destination": "Masukan nama provinsi tujuan",
+    "placeholder_kota_destination": "Pilih kota/kabupaten tujuan",
+    "placeholder_courier": "Pilih Kurir yang anda inginkan",
+    "kota/kabupaten": "Pilih Kota / Kabupaten",
+    "weight": "Berat (gram)",
+    "courier": "Pilih Kurir",
+    "cek": "Cek Sekarang",
+    "loading": "Menunggu...",
+    "nama_layanan": "Nama Layanan",
+    "tarif": "Tarif",
+    "estimasi": "Estimasi",
+    "catatan": "Catatan",
+    "dari": "Dari",
+    "tujuan": "Tujuan",
+    "no_data": "Tidak ada data"
+  },
+  "resi": {
+    "title": "Cek Resi Paketmu !!",
+    "subtitle": "Temukan permintaan anda",
+    "no_resi": "No. Resi",
+    "kurir": "Pilih Kurir",
+    "placeholder_resi" : "Masukan No. Resi",
+    "placeholder_courier" : "Pilih Kurir dibawah ini",
+    "cek" : "Cek Sekarang",
+    "loading" : "Menunggu...",
+    "nomor_resi" : "Nomor Resi",
+    "tgl" : "Tanggal",
+    "dari" : "Dari",
+    "tujuan" : "Tujuan",
+    "layanan" : "Layanan",
+    "berat": "Berat",
+    "jumlah": "Jumlah",
+    "barang": "Barang",
+    "status": "Status",
+    "history": "Riwayat"
+  }
+}

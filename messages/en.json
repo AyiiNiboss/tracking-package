@@ -1,0 +1,68 @@
+{
+  "IndexPage": {
+    "welcomeTitle": "Find Your Shipment Quickly and Accurately",
+    "welcomeDescription": "We provide fast, easy, and reliable shipment tracking and postage services. Monitor the status of your shipment and calculate shipping costs easily here.",
+    "checkNow": "Check Now"
+  },
+  "Navbar": {
+    "home": "Home",
+    "resi": "Resi Number",
+    "ongkir": "Shipping Cost"
+  },
+  "Footer": {
+    "bahasa": "Language",
+    "option": "Select Language",
+    "fitur_cepat": "QUICK FEATURES",
+    "cek_resi": "Check Resi Number",
+    "cek_ongkir": "Check Shipping Cost",
+    "layanan": "Services",
+    "layanan_utama": "Main Services",
+    "pengadaan_barang": "Goods Procurement",
+    "hubungi_kami": "Contact Us",
+    "ikuti_kami": "Follow Us",
+    "copyright": "© 2024 Yiie - Made with"
+  },
+  "ongkir": {
+    "title": "Check Your Shipping Fee !!",
+    "kota_asal": "Origin",
+    "kota_tujuan": "Destination",
+    "provinsi" : "Province",
+    "placeholder_provinsi_origin": "Input origin province",
+    "placeholder_kota_origin": "Select origin city / district",
+    "placeholder_provinsi_destination": "Input destination province",
+    "placeholder_kota_destination": "Select destination city / district",
+    "placeholder_courier": "Select courier",
+    "kota/kabupaten": "City / District",
+    "weight": "Weight (gram)",
+    "courier": "Courier",
+    "cek": "Check Now",
+    "loading": "Loading...",
+    "nama_layanan": "Service Name",
+    "tarif": "Cost",
+    "estimasi": "Estimation",
+    "catatan": "Note",
+    "dari": "From",
+    "tujuan": "To",
+    "no_data": "There is no data"
+  },
+  "resi": {
+    "title": "Track Your Packages !!",
+    "subtitle": "Find your shipment here",
+    "no_resi": "No. Resi",
+    "kurir": "Select Courier",
+    "placeholder_resi" : "Input your resi number",
+    "placeholder_courier" : "Select courier below",
+    "cek" : "Check Now",
+    "loading" : "Loading...",
+    "nomor_resi" : "Receipt Number",
+    "tgl" : "Date",
+    "dari" : "From",
+    "tujuan" : "To",
+    "layanan" : "Service",
+    "berat": "Weight",
+    "jumlah": "Quantity",
+    "barang": "Item",
+    "status": "Status",
+    "history": "History"
+  }
+}
