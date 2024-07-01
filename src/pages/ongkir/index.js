@@ -289,7 +289,7 @@ const Ongkir = () => {
       <div className="w-full h-[15rem] md:h-[25rem] lg:h-[35rem]">
         <div className="w-full h-full bg-[url('/images/bg-ongkir.png')] object-cover bg-cover lg:bg-center bg-no-repeat flex justify-center items-center bg-gray-600 bg-blend-multiply">
           <div className="flex justify-center items-center lg:mt-[-5rem]">
-            <h1 className="text-[#FFBA00] text-4xl md:text-6xl lg:text-6xl font-bold text-start leading-tight mb-5">
+            <h1 className="text-[#FFBA00] text-2xl md:text-6xl lg:text-6xl font-bold text-start leading-tight mb-5">
               {t('title')}
             </h1>
           </div>
