@@ -4,7 +4,6 @@ import supabase from "@/config/supabaseClient";
 import axios from "axios";
 import { useTranslations } from "next-intl";
 import Head from "next/head";
-import Image from "next/image";
 import { useEffect, useRef, useState } from "react";
 import AsyncSelect from "react-select/async";
 const kurir = [

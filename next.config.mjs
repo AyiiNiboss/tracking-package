@@ -2,8 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   i18n: {
-    defaultLocale: 'default', // Default bahasa
-    locales: ['default', 'en', 'id'], // Tambahkan bahasa yang Anda dukung
+    defaultLocale: 'id', // Default bahasa
+    locales: ['en', 'id'], // Tambahkan bahasa yang Anda dukung
     localeDetection: false,
   },
 };

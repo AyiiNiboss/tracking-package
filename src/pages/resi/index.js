@@ -1,9 +1,7 @@
-import Image from "next/image";
-import ClipBoard from "@/components/ClipBoard";
 import TimeLine from "@/components/TimeLine";
 import CardInformation from "@/components/CardInformation";
 import { initFlowbite } from "flowbite";
-import { Fragment, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useTranslations } from "next-intl";
 import Head from "next/head";
 // const gambar = [
